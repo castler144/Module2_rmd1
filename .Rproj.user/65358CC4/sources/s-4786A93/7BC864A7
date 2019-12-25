@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1577233600977.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7BC864A7",
+    "lastKnownWriteTime" : 1577235482,
+    "last_content_update" : 1577235482806,
+    "path" : "~/GitHub/Module2_rmd1/Module2 - rmd1.Rmd",
+    "project_path" : "Module2 - rmd1.Rmd",
+    "properties" : {
+        "cursorPosition" : "32,3",
+        "scrollLine" : "11",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
