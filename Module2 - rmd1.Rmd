@@ -76,3 +76,25 @@ knitr::kable(head(cars),
 ## Insert an equation
 
 $$ Y = g(X), g'' \geq 0$$
+
+## Insert Images
+
+Here is an image inserted
+
+![sunstar](sunstar.png)
+
+## Insert an Animated GIF and video
+
+![sunstar](sunstar.gif)
+
+![sunstar](sunstar.mp4)
+
+## Insert text with some footnotes
+
+Here is footnote reference [^1] and another [^longnote]
+
+Here is an inline footnote ^[Inline notes are easier to write, since you don't have to pick an identifier and move down to type the note.]
+
+[^1]: Here is the footnote.
+[^longnote]: Here's one with multiple blocks.
+
