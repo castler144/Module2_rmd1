@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1577242116652.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1686358351",
+    "id" : "53F33C14",
+    "lastKnownWriteTime" : 1577242466,
+    "last_content_update" : 1577242466952,
+    "path" : "~/GitHub/Module2_rmd1/module2_ioslides.Rmd",
+    "project_path" : "module2_ioslides.Rmd",
+    "properties" : {
+        "cursorPosition" : "56,10",
+        "scrollLine" : "24",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

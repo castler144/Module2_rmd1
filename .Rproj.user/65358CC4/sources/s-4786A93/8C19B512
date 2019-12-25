@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1577242593867.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3915279385",
+    "id" : "8C19B512",
+    "lastKnownWriteTime" : 1577242815,
+    "last_content_update" : 1577242815533,
+    "path" : "~/GitHub/Module2_rmd1/module2_revealjs.Rmd",
+    "project_path" : "module2_revealjs.Rmd",
+    "properties" : {
+        "cursorPosition" : "9,16",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

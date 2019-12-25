@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1577241404369.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2994702080",
+    "id" : "7FCBB184",
+    "lastKnownWriteTime" : 1577241625,
+    "last_content_update" : 1577242103436,
+    "path" : "~/GitHub/Module2_rmd1/module2_slidy.Rmd",
+    "project_path" : "module2_slidy.Rmd",
+    "properties" : {
+        "cursorPosition" : "5,29",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
